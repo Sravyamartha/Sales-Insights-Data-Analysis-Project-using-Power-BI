@@ -3,6 +3,7 @@
 ## Problem Statement
 
 AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are all the problem company is facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour, these people Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.Right now, they don't have a good grasp of their sales data, which makes it hard for them to make smart decisions and plan for the future. This lack of insight makes it difficult for AtliQ to spot trends, know what customers want, manage their stock efficiently, and advertise effectively. Because of this, they are missing out on chances to grow and make more money.
+
 To fix this, AtliQ hardware needs a solution that can clearly show their sales patterns. This way, they can use data to make decisions and improve their business. This project aims to help them boost sales, meet their financial goals, and enhance their overall performance.
 
 ## Data Discovery
