@@ -12,7 +12,7 @@ To fix this, AtliQ hardware needs a solution that can clearly show their sales p
 It is a project management tool which consists of four components-
 
 - Purpose - (What to do exactly)
-- Stackholder - (Who will be involved)
+- Stakeholder - (Who will be involved)
 - End result - (What do you want to achieve)
 - Success Criteria - (Cost optimization and time save)
   ### AIMS Grid
@@ -39,7 +39,7 @@ In the realm of data analysis, the process of data cleaning and ETL (Extract, Tr
 accurate, consistent, and ready for analysis. Below are the detailed steps involved in our data cleaning and ETL process:
 
 **Step 1: Connect to MySQL Database with PowerBI Desktop**- 
-The journey begins by establishing a connection between our MySQL database and PowerBI Desktop. This connection serves as the bridge through which raw data is accessed, setting the stage for comprehensive analysis.
+It starts by establishing a connection between our MySQL database and PowerBI Desktop. This connection serves as the bridge through which raw data is accessed, setting the stage for comprehensive analysis.
 
 **Step 2: Load Data into Power BI Desktop**- 
 During this step, all tables created within the database are loaded into Power BI Desktop. This loading process establishes a seamless connection with the SQL database, pulling in all the records and populating the Power BI environment. The integration of data from the source to Power BI is fundamental for subsequent analysis and visualization.
